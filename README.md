@@ -1,4 +1,4 @@
-# Audio Analysis Sandbox
+# Audio Extraction
 
 This repository contains Python scripts and a Jupyter notebook for extracting and analyzing audio from video files.
 
